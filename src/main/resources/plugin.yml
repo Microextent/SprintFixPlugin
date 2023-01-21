@@ -1,0 +1,5 @@
+name: ServerSprintFix
+version: '${project.version}'
+main: gg.tropic.serversprintfix.ServerSprintFix
+authors: [ Microextent ]
+description: Fixes a server sprinting bug
